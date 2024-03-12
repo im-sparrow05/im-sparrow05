@@ -14,7 +14,7 @@
 Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 </h3>
 
-- 🌱 I’m currently learning **Backend Development & Data Structure & algorithms**
+- 🌱 I’m currently doing **compitative Programming and data analytics**
 
 - 👯 I’m looking to collaborate on **Web development Projects.**
 
