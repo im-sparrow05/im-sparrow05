@@ -20,7 +20,7 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 
 - 💬 Ask me about **anything, I am happy to help**
 
-- 📫 How to reach me **rahulkr763386@gmail.com**
+- 📫 How to reach me **rahulkr.iitg25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
